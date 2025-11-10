@@ -35,6 +35,7 @@ const gayToNl = {
 "Zerelda": "Bedoelde je: Artemis?",
 "Lyfe": "Bedoelde je: Adolf Hitler?",
 "Tobias": "Bedoelde je: die ene ginger van Megamind?",
+  "Jayden": "Bedoelde je: Stalin?",
 
   // Emoties / reacties
   "gag": "zo verbaasd zijn dat je niks kan zeggen",
@@ -306,3 +307,4 @@ function checkForJumpscare(text) {
     }
   }, 4000);
 }
+
