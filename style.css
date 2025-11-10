@@ -94,7 +94,6 @@ code {
   pointer-events: none;
 }
 
-/* vanaf hier is het los */
 #jumpscare {
   position: fixed;
   inset: 0;
@@ -110,6 +109,7 @@ code {
   max-height: 100%;
   object-fit: contain;
 }
+
 
 
 
